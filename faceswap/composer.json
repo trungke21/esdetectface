@@ -1,0 +1,19 @@
+{
+    "name": "esdetect/faceswap",
+    "description": "Enable Startup",
+    "version": "0.0.1",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Trung Ke",
+            "email": "trung@enablestartup.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Esdetect\\Faceswap\\": "src/"
+        }
+    }
+}
