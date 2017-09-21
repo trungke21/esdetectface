@@ -9,7 +9,7 @@
             "email": "trung@enablestartup.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
